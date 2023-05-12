@@ -1,6 +1,7 @@
 body {
     display: flex;
     justify-content: center;
+    height: 200px;
     
     margin-top: 20px ;
     /*
